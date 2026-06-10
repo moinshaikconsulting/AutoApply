@@ -1,0 +1,6 @@
+{
+  "name": "Resume Vault & Auto-Cleanup",
+  "description": "A secure full-stack web application for uploading and storing resumes with automatic cleanup of all files and records after 15 days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
